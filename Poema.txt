@@ -3,3 +3,11 @@ El poema de Samuel
 Yo no soy poeta. FIN
 
 //Ojala fuera codigo
+
+código html 
+o
+css 
+o 
+js
+o 
+todos?
